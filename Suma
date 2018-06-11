@@ -1,0 +1,5 @@
+# En estas líneas de código haremos la función suma de la calculadora básica
+dato1=int(input("inserte el dato 1 que se va a sumar")
+dato2=int(input("inserte el dato 2 que se va a sumar con el dato 1")
+suma=dato1+dato2
+print(suma)
